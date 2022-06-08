@@ -177,6 +177,9 @@ body {
 .door:nth-child(32) .image {
     background-image: url(https://raw.githubusercontent.com/ParkYoungWoong/door-selector/main/images/img32.jpg);
 }
+.door:nth-child(32) .image {
+    background-image: url(https://raw.githubusercontent.com/ParkYoungWoong/door-selector/main/images/img32.jpg);
+}
 
 h1.title {
 font-size: 30px;
